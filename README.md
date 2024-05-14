@@ -1,2 +1,4 @@
 # XAlter_AR_Experience
-This is the beginning of a teaching/training aid using AR.
+AR Wellhead experience. This is the start of a teaching/training aid using AR.
+
+This is in Unity 2022.3.26f1
